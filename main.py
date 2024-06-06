@@ -1,1 +1,1 @@
-print("joww")
+print("ik ben een snnnn")
